@@ -1,0 +1,23 @@
+{
+  "name": "products-app",
+  "version": "1.0.0",
+  "description": "hiring process for the Backend Developer position at Netway Corp!",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Islam Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

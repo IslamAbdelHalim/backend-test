@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1200.0,
+    "quantity": 10
+  },
+  {
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99,
+    "quantity": 50
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 89.99,
+    "quantity": 30
+  },
+  {
+    "name": "Smartwatch X",
+    "category": "Electronics",
+    "price": 199.99,
+    "quantity": 15
+  },
+  {
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "price": 45.5,
+    "quantity": 25
+  },
+  {
+    "name": "Air Fryer",
+    "category": "Home Appliances",
+    "price": 79.99,
+    "quantity": 20
+  },
+  {
+    "name": "Electric Kettle",
+    "category": "Home Appliances",
+    "price": 29.99,
+    "quantity": 40
+  },
+  {
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 19.99,
+    "quantity": 60
+  },
+  {
+    "name": "Dumbbell Set (10kg)",
+    "category": "Fitness",
+    "price": 49.99,
+    "quantity": 35
+  },
+  {
+    "name": "Running Shoes",
+    "category": "Fitness",
+    "price": 89.99,
+    "quantity": 45
+  },
+  {
+    "name": "Organic Shampoo",
+    "category": "Personal Care",
+    "price": 12.99,
+    "quantity": 100
+  },
+  {
+    "name": "Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 39.99,
+    "quantity": 50
+  },
+  {
+    "name": "Face Cream",
+    "category": "Personal Care",
+    "price": 24.99,
+    "quantity": 80
+  },
+  {
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 59.99,
+    "quantity": 40
+  },
+  {
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 34.99,
+    "quantity": 70
+  },
+  {
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 45.0,
+    "quantity": 55
+  },
+  {
+    "name": "Desk Lamp",
+    "category": "Home Decor",
+    "price": 29.99,
+    "quantity": 30
+  },
+  {
+    "name": "Throw Pillow",
+    "category": "Home Decor",
+    "price": 15.99,
+    "quantity": 90
+  },
+  {
+    "name": "Plant Pot",
+    "category": "Home Decor",
+    "price": 12.5,
+    "quantity": 75
+  },
+  {
+    "name": "Notebook Set",
+    "category": "Stationery",
+    "price": 9.99,
+    "quantity": 120
+  }
+]
